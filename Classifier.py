@@ -1,7 +1,6 @@
 """
 Title:Implement KNN Classifier algorithm and run various test cases to understand the algorithm.
 Developer : Naveen Kambham
-ID:nkk300
 Description: This is a simple KNN classifier implemented using nparrays. It has various test cases like adding the feed back
              to training data and sorting the data and changing different K values. Here I have used euclidean distance as a
              distance metric.
