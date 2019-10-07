@@ -1,1 +1,1 @@
-# k-nearest-neighbors-FromScratch
+# k-nearest-neighbors-From_Scratch
